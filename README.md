@@ -1,2 +1,2 @@
 # learning-vuejs
-not to see yet
+nothing to see yet
